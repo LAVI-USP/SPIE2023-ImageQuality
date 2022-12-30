@@ -1,5 +1,5 @@
 # SPIE2023-ImageQuality
-It contains the codes for the paper "Assessing the impact of correlated noise in digital mammography: a virtual clinical trial", submitted to the SPIE 2023 conference. We used the OpenVCT from the University of Pennsylvania, available [here](https://sourceforge.net/p/openvct/wiki/Home/). We also used The Laboratory for Individualized Breast Radiodensity Assessment ([LIBRA](https://www.med.upenn.edu/sbia/libra.html)), a software package developed by the University of Pennsylvania.
+It contains the codes for the paper "Assessing the impact of correlated noise in digital mammography: a virtual clinical trial", submitted to the SPIE 2023 conference. We used the OpenVCT from the University of Pennsylvania, available [here](https://sourceforge.net/p/openvct/wiki/Home/). We also used The Laboratory for Individualized Breast Radiodensity Assessment ([LIBRA](https://www.med.upenn.edu/sbia/libra.html)), a software package developed by the University of Pennsylvania. The R* metric was calculated using the ImageJ plugin, available [here](https://www.ucm.es/gabriel_prieto/ssim-family-java-and-class).
 
 Disclaimer: For education purposes only.
 
